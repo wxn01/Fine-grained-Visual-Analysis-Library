@@ -1,6 +1,7 @@
 
 import torch
 from torch import nn
+import numpy as np
 from yacs.config import CfgNode
 
 from fgvclib.configs.utils import turn_list_to_dict as tltd
